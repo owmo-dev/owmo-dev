@@ -2,7 +2,7 @@ Hello, I'm **ctrlshiftmake**
 
 > Passionate about creative technology; I pursue opportunities that combine arts, programming and entrepreneurship.
 
-I'm a creative developer working under a personal brand - [ctrlshiftmake design](https://www.ctrlshiftmake.com/) - who works on generative artwork, workflow software and interactive media. I love working independently to create works for others to enjoy and use.
+I'm a creative developer working under a personal brand - [ctrlshiftmake design](https://www.ctrlshiftmake.com/) - who works on generative artwork, production workflow software and interactive media. I love working independently on things that people enjoy or can use to be creative.
 
 - 🌎 &nbsp; Live in Vancouver, BC
 - 💻 &nbsp; Write code in Go, Javascript, Python, GLSL and C#
