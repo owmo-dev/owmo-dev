@@ -1,8 +1,8 @@
-Hello, I'm **ctrlshiftmake**
+Hello, I'm **Owen Moore | ctrlshiftmake**,
 
 > Passionate about creative technology; I pursue opportunities that combine arts, programming and entrepreneurship.
 
-I'm a creative developer working under a personal brand - [ctrlshiftmake design](https://www.ctrlshiftmake.com/) - who works on generative artwork, production workflow software and interactive media. I love working independently on things that people enjoy or can use to be creative.
+I'm a creative developer working under my personal brand - [ctrlshiftmake](https://www.ctrlshiftmake.com/) - who creates generative artwork, creative software and interactive media. I love working independently on things that people enjoy or can use to be creative.
 
 - 🌎 &nbsp; Live in Vancouver, BC
 - 💻 &nbsp; Write code in Go, Javascript, Python, GLSL and C#
