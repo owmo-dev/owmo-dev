@@ -11,4 +11,4 @@ I'm a creative developer working under my personal brand - [ctrlshiftmake](https
 - 📝 &nbsp; Read articles on my [development blog](https://blog.ctrlshiftmake.com/)
 - 📅 &nbsp; Available for comissions, consulting or collaboration
 
-I accept ETH tips, donations, NFTs, etc. to `ctrlshiftmake.eth` if you feel you'd like tipping me for the work I've shared here
+I accept ETH tips, donations, NFTs, etc. to `ctrlshiftmake.eth` if you feel like tipping me as thanks for the work I'm sharing here
