@@ -7,7 +7,7 @@ I'm an independent creative developer who makes generative artwork and open sour
 - 🌎 &nbsp; Live in Vancouver, BC
 - 💻 &nbsp; Write code in Go, Javascript, Python, GLSL and C#
 - 🎨 &nbsp; Create artworks via custom code and Blender
-- 📫 &nbsp; Email me directly at hello@ctrlshiftmake.com
+- 📫 &nbsp; Email me directly at owen.moore@ctrlshiftmake.com
 - 📝 &nbsp; Read articles on my [development blog](https://owenmoore.hashnode.dev/)
 - 📅 &nbsp; Available for comissions, consulting or collaboration
 
