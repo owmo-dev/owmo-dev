@@ -1,6 +1,6 @@
 Hello, I'm **Owen Moore**,
 
-Owen Moore is an independent creative developer who makes generative art, music and web applications for artists. Passionate about creative technology, he pursues opportunities that combine arts, programming and entrepreneurship.
+I'm an independent creative developer who makes generative art, music and web applications for artists. Passionate about creative technology, I pursue opportunities that combine arts, programming and entrepreneurship.
 
 - 🌎 &nbsp; Live in Vancouver, BC
 - 📫 &nbsp; Email me directly at hello@owenmoore.art
