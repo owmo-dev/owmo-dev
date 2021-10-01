@@ -1,8 +1,6 @@
 Hello, I'm **Owen Moore**,
 
-> Passionate about creative technology; I pursue opportunities that combine arts, programming and entrepreneurship.
-
-I'm an independent creative developer who makes generative artwork and open source workflow software. I also work on larger projects via my business, [ctrlshiftmake design](https://www.ctrlshiftmake.com/). I love working independently on things that bring joy to the world.
+Owen Moore is an independent creative developer who makes generative art, music and web applications for artists. Passionate about creative technology, he pursues opportunities that combine arts, programming and entrepreneurship.
 
 - 🌎 &nbsp; Live in Vancouver, BC
 - 📫 &nbsp; Email me directly at hello@owenmoore.art
