@@ -3,11 +3,10 @@ Hello, I'm **Owen Moore**,
 I'm an artist and creative developer who makes generative art, interactive media and web applications. Passionate about creative technology, I pursue opportunities that combine arts, programming and entrepreneurship.
 
 -   🌎 &nbsp; Live in Vancouver, BC
--   🚴 &nbsp; Love bicycling, hiking and yoga
--   🎨 &nbsp; Create artwork via custom code and Blender
+-   🚴 &nbsp; Love bicycling and hiking the outdoors
+-   🎨 &nbsp; Create generative art and interactive media
 -   💻 &nbsp; Develop using Go, Javascript, Python, GLSL and C#
+-   🧱 &nbsp; Exploring solutions using blockchain smart contracts
 -   📅 &nbsp; Available for comissions, consulting or collaboration
--   🌐 &nbsp; View my projects https://www.owenmoore.xyz/
+-   🌐 &nbsp; View my work at https://www.owenmoore.xyz/
 -   📫 &nbsp; Email me [hello@owenmoore.xyz](mailto:hello@owenmoore.xyz)
-
-I accept tips/airdrops to `owenmoore.eth` or `owenmoore.tez` if you're feeling generous
