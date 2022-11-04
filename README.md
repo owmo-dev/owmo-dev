@@ -5,7 +5,7 @@ I'm an artist and creative developer who makes generative art, interactive media
 -   🌎 &nbsp; Live in Vancouver, BC
 -   🚴 &nbsp; Love bicycling and hiking the outdoors
 -   🎨 &nbsp; Create generative art and interactive media
--   💻 &nbsp; Develop using Go, Javascript, Python, GLSL and C#
+-   💻 &nbsp; Develop using Javascript, GLSL, Go, Python and C#
 -   🧱 &nbsp; Exploring solutions using blockchain smart contracts
 -   📅 &nbsp; Available for comissions, consulting or collaboration
 -   🌐 &nbsp; View my work at https://www.owenmoore.xyz/
