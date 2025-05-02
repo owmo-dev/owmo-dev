@@ -1,12 +1,11 @@
 Hello, I'm **Owen Moore**,
 
-I’m an independent creative developer based in Vancouver, Canada. Through my art practice, [OWMO Studio](https://owmo.studio), I focus on algorithmic artwork and electronic music production, and I'm developing an indie game under [ComboMash Games](https://combomash.com). I’m passionate about the intersection of technology and creativity and actively pursue work in these areas.
+I'm an independent artist and creative developer based out of Vancouver, Canada. Through my art practice [OWMO Studio](https://owmo.studio), I develop algorithmic artwork, produce electronic music and use technology in all it's forms to create unique experiences. Please reach out if you would like to comission work or collaborate in any way!
 
 -   🌎 &nbsp; Live and work in Vancouver, BC
--   🚴 &nbsp; Enjoy bicycling and hiking the outdoors
+-   🚴 &nbsp; Enjoy bicycling and hiking mountains
 -   💻 &nbsp; JavaScript, C#, React, WebGL, GLSL, Python
--   🕹️ &nbsp; In development: [Crystal Brigade](https://combomash.com) (tactical RPG)
--   🖼️ &nbsp; Browse my artworks on [OMWO Studio](https://owmo.studio) website
+-   🖼️ &nbsp; See my artworks on [OMWO Studio](https://owmo.studio)
 -   🎨 &nbsp; Algorithmic art, parametric design, realtime experiences
 -   📅 &nbsp; Available for comissions, consulting or collaboration
 -   📫 &nbsp; Email me [hello@owmo.studio](mailto:hello@owmo.studio)
