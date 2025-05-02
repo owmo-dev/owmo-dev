@@ -1,6 +1,6 @@
 Hello, I'm **Owen Moore**,
 
-I'm an independent artist and creative developer based out of Vancouver, Canada. Through my art practice, [OWMO Studio LTD](https://owmo.studio), I create algorithmic fine art, produce electronic music and use technology in all it's forms to create unique experiences. Please reach out if you would like to comission work or collaborate!
+I'm an artist and creative developer based out of Vancouver, Canada. Through my art practice, [OWMO Studio](https://owmo.studio), I create algorithmic fine art, produce electronic music and use technology in all it's forms to create unique experiences. Please reach out if you would like to comission work or collaborate!
 
 -   🌎 &nbsp; Live and work in Vancouver, BC
 -   🚴 &nbsp; Enjoy bicycling and hiking mountains
