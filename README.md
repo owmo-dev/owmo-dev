@@ -1,6 +1,6 @@
 Hello, I'm **Owen Moore**,
 
-I'm a code artist & creative director based in Vancouver, Canada. My creative practice operates through [OWMO Studio LTD](https://owmo.studio) and is known for algorithmic art, soundscapes, and experimental media. Please contact me if you're interested in commissions, consulting, or partnerships related to creative code, audio synthesis, and interactive design.
+I'm a code artist, producer & creative technologist based in Vancouver, Canada. My creative practice operates through [OWMO Studio LTD](https://owmo.studio) and is known for algorithmic art, soundscapes, and experimental media. Please contact me if you're interested in commissions, consulting, or partnerships related to creative code, audio synthesis, and interactive design.
 
 -   🌎 &nbsp; Based in Vancouver, BC 🇨🇦
 -   📫 &nbsp; Contact me — [hello@owmo.studio](mailto:hello@owmo.studio)
