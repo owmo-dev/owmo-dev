@@ -1,4 +1,4 @@
-I'm an artist & creative developer based in Vancouver, Canada. I work via [OWMO Studio LTD](https://owmo.studio) and am known for creating algorithmic code art, synthesized soundscapes, and interactive web-based experiences.
+I'm an artist & creative developer based in North Vancouver, Canada. I work via [OWMO Studio LTD](https://owmo.studio) and am known for creating algorithmic code art, synthesized soundscapes, and interactive web-based experiences. Available for contracts or creative consulting.
 
 -   🌎 &nbsp; North Vancouver, BC 🇨🇦
 -   📫 &nbsp; Contact me — [hello@owmo.studio](mailto:hello@owmo.studio)
