@@ -5,4 +5,4 @@ I'm an artist & creative developer based in Vancouver, Canada. I work via [OWMO 
 -   💻 &nbsp; TypeScript, WebGL, GLSL, React, C#, Python
 -   🎨 &nbsp; Code-based art, audio-visual experiences, interactive media
 -   🎵 &nbsp; Synthesizers, guitar / bass, music production, soundscapes
--   🚴 &nbsp; Bicycling, mountain hiking, & walking my border collie
+-   🚴 &nbsp; Bicycling, hiking mountains, & walking my border collie
