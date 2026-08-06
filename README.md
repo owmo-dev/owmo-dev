@@ -1,4 +1,4 @@
-I'm an artist & creative developer based in North Vancouver, Canada. My creative practice is focussed on algorithmic code art, synthesized soundscapes, and interactive web experiences. Available for contracts / commissions / consulting.
+I'm an artist & creative developer based in North Vancouver, Canada. My creative practice is focussed on algorithmic artwork, synthesized soundscapes, and interactive web experiences. Available for contracts / commissions / consulting.
 
 -   🌎 &nbsp; North Vancouver, BC 🇨🇦
 -   💻 &nbsp; TypeScript, WebGL, GLSL, React, C#, Python
